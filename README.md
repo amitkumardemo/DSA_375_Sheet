@@ -1,3 +1,3 @@
 # DSA_375_Sheet By Shrdha Mam
 
-In this dsa sheet we solve easy medium
+In this dsa sheet we solve easy medium and hard questions
